@@ -1,0 +1,27 @@
+Calculadora 
+Documentación
+
+
+Requerimiento
+Se requiere un aplicativo web de simulación de una calculadora básica con las siguientes funciones (suma, resta, multiplicación, división y residuo) 
+1.1 Requisitos funcionales
+Permitirá ingresar números enteros 
+El aplicativo imprimirá el resultado de su respectiva operación 
+No se permitirá colocar palabras ni símbolos en la variable operadores 
+El aplicativo no traerá botones
+1.2 Requisitos no funcionales 
+Lenguaje de programación 
+JavaScript
+Estructura y usabilidad del aplicativo 
+Para utilizar el aplicativo se requiere de ingresar los números en los operadores disponibles con la acción de clic y tab, seleccionar el tipo de operación que desea realizar con las flechas (suma, resta, multiplicación, división y residuo)
+Para finalizar oprimir la tecla Enter
+Para el residuo es necesario darle al recuadro de residuo
+El resultado será imprimido en el medio de la pantalla en color rojo  
+Errores
+-El aplicativo no realiza operaciones con decimales 
+-El aplicativo no divide entre 0 
+
+
+Cliente	                                                        Desarrollador                                                   ficha
+Edwin Rozo                                                     Joan Sebastián Ramírez Martínez	2469283
+
